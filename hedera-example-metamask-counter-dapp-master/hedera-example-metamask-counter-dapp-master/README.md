@@ -1,4 +1,5 @@
-I create a simple counter dApp on the Hedera network using Solidity, React JS, MetaMask, and Ethers JS. 
+I created a simple counter dApp on the Hedera network using Solidity, React JS, MetaMask, and Ethers JS. 
+
 The goal with this example is to help me understand the fundamentals of dApp development, making it easier for md to create more complex dApps in the future.
 
 # Application Architecture at a High Level
